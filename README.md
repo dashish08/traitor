@@ -7,7 +7,7 @@ Automatically exploit low-hanging fruit to pop a root shell. Linux fbgfbhgf priv
 - Writeable docker.sock
 - CVE-2022-0847 (Dirty pipe)
 - CVE-2021-4034 (pwnkit)
-- CVE-2021-3560
+
 
 ![Demo](demo.gif)
 
