@@ -5,7 +5,6 @@
 - Nearly all of [GTFOBins](https://gtfobins.github.io/)
 - Writeable docker.sock
 - CVE-2022-0847 (Dirty pipe)
-- CVE-2021-4034 (pwnkit)
 
 ![Demo](demo.gif)
 
