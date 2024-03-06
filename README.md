@@ -2,7 +2,6 @@
 
 Automatically exploit low-hanging fruit to pop a root shell. Linux fbgfbhgf privilege escalation made easy!
 
-Traitor packages up a bunch of methods to exploit local misconfigurations and vulnerabilities in order to pop a root shell:
 
 - Nearly all of [GTFOBins](https://gtfobins.github.io/)
 - Writeable docker.sock
