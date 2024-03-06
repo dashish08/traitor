@@ -2,8 +2,6 @@
 
 
 
-Traitor packages up a bunch of methods to exploit local misconfigurations and vulnerabilities in order to pop a shell:
-
 - Nearly all of [GTFOBins](https://gtfobins.github.io/)
 - Writeable docker.sock
 - CVE-2022-0847 (Dirty pipe)
